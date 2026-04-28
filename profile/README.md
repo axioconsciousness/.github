@@ -64,7 +64,7 @@ This is primarily a research project rather than a software project, so the enga
 
 ## 💬 About the Researcher
 
-Paul W. Barnes is studying psychology and philosophy at Athabasca University. He is a member of the American Philosophical Association, the American Psychological Association (Division 24: Society for Theoretical and Philosophical Psychology), and the Society for Mind-Matter Research. UAFT is developed independently, drawing on three decades of professional experience in nuclear and electrical work alongside sustained engagement with foundational questions about consciousness, identity, and the structure of reality.
+Paul W. Barnes is studying psychology and philosophy at Athabasca University. He is a member of the American Philosophical Association, the American Psychological Association (Division 24: Society for Theoretical and Philosophical Psychology), and the Society for Mind-Matter Research. UAFT is developed independently, drawing on over three decades of sustained engagement with foundational questions about consciousness, identity, and the structure of reality.
 
 ---
 
