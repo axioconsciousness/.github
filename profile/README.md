@@ -44,7 +44,7 @@ UAFT is a foundational framework treating consciousness not as a property that e
 
 * **Unified Axioconscious Field Theory (Working Paper v3)** – Zenodo, [DOI: 10.5281/zenodo.19433409](https://doi.org/10.5281/zenodo.19433409)
 * **The Binary Severance Threshold** – Zenodo, [DOI: 10.5281/zenodo.19432883](https://doi.org/10.5281/zenodo.19432883)
-* **Author profile** – [PhilPapers]([https://philpapers.org/](https://philpeople.org/profiles/paul-barnes) | [ResearchGate](https://www.researchgate.net/profile/Paul-Barnes-15?ev=hdr_xprf) | [OSF](https://osf.io/8f45m/)
+* **Author profile** – [PhilPapers](https://philpeople.org/profiles/paul-barnes) | [ResearchGate](https://www.researchgate.net/profile/Paul-Barnes-15?ev=hdr_xprf) | [OSF](https://osf.io/8f45m/)
 
 Additional papers in development cover emotional differentiation as the mechanism of selfhood, the framework-bound paradox methodology, and the comprehensive UAFT framework targeted for *Mind and Matter* in 2026.
 
